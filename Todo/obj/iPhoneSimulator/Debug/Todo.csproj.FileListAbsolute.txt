@@ -1,0 +1,12 @@
+C:\PD\Todo\Todo\bin\iPhoneSimulator\Debug\Todo.exe
+C:\PD\Todo\Todo\bin\iPhoneSimulator\Debug\Todo.pdb
+C:\PD\Todo\Todo\obj\iPhoneSimulator\Debug\ibtool\LaunchScreen.nib
+C:\PD\Todo\Todo\obj\iPhoneSimulator\Debug\ibtool\Main.storyboardc\4-view-5.nib
+C:\PD\Todo\Todo\obj\iPhoneSimulator\Debug\ibtool\Main.storyboardc\Info.plist
+C:\PD\Todo\Todo\obj\iPhoneSimulator\Debug\ibtool\Main.storyboardc\UITableViewController-4.nib
+C:\PD\Todo\Todo\obj\iPhoneSimulator\Debug\optimized\
+C:\PD\Todo\Todo\obj\iPhoneSimulator\Debug\optimized\Entitlements.plist
+C:\PD\Todo\Todo\obj\iPhoneSimulator\Debug\Todo.exe
+C:\PD\Todo\Todo\obj\iPhoneSimulator\Debug\Todo.pdb
+C:\PD\Todo\Todo\obj\iPhoneSimulator\Debug\Todo.exe.mdb
+C:\PD\Todo\Todo\bin\iPhoneSimulator\Debug\Todo.exe.mdb

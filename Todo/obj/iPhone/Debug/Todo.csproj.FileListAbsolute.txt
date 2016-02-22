@@ -1,0 +1,11 @@
+C:\PD\Todo\Todo\bin\iPhone\Debug\Todo.exe
+C:\PD\Todo\Todo\bin\iPhone\Debug\Todo.pdb
+C:\PD\Todo\Todo\obj\iPhone\Debug\optimized\
+C:\PD\Todo\Todo\obj\iPhone\Debug\Todo.csprojResolveAssemblyReference.cache
+C:\PD\Todo\Todo\obj\iPhone\Debug\Todo.exe
+C:\PD\Todo\Todo\obj\iPhone\Debug\Todo.pdb
+C:\PD\Todo\Todo\obj\iPhone\Debug\ibtool\LaunchScreen.nib
+C:\PD\Todo\Todo\obj\iPhone\Debug\ibtool\Main.storyboardc\4-view-5.nib
+C:\PD\Todo\Todo\obj\iPhone\Debug\ibtool\Main.storyboardc\Info.plist
+C:\PD\Todo\Todo\obj\iPhone\Debug\ibtool\Main.storyboardc\UITableViewController-4.nib
+C:\PD\Todo\Todo\obj\iPhone\Debug\optimized\Entitlements.plist
